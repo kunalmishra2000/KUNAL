@@ -1,7 +1,8 @@
-# Hi, I'm KUNAL👋
 <p align="center">
 <img src="https://github.com/kunalmishra2000/kunalmishra2000/blob/main/images/Developer.gif" width="200px">
   </p>
+# Hi, I'm KUNAL👋
+
 
 I'm a Verification Engineer passionate about digital design and SoC verification.
 ![GitHub followers](https://img.shields.io/github/followers/kunalmishra2000?logo=github&style=for-the-badge)
