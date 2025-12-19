@@ -1,4 +1,4 @@
-# Hi, I'm K 👋
+# Hi, I'm KUNAL👋
 I'm a Verification Engineer passionate about digital design and SoC verification.
 
 ### Languages and Tools:
