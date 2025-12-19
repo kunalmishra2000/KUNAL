@@ -18,7 +18,7 @@ I'm a Verification Engineer passionate about digital design and SoC verification
 <br />
 
 ---
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kumarrishav14&layout=compact&hide_border=true&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kunalmishra2000&layout=compact&hide_border=true&count_private=true)
 
 [<img align="left" alt="System Verilog" width="130px" src="https://upload.wikimedia.org/wikipedia/en/thumb/e/ef/SystemVerilog_logo.png/240px-SystemVerilog_logo.png" style="padding-right:10px;" />][webdevplaylist]
 [<img align="left" alt="UVM" width="50px" src="https://s3.amazonaws.com/images.verification.academy/uvm.jpg" style="padding-right:10px;" />][webdevplaylist]
