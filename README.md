@@ -5,7 +5,7 @@
 
 # Hi, I'm KUNAL👋
 
-
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 I'm a Verification Engineer passionate about digital design and SoC verification.
 ![GitHub followers](https://img.shields.io/github/followers/kunalmishra2000?logo=github&style=for-the-badge)
 
