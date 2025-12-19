@@ -26,3 +26,15 @@ I'm a Verification Engineer passionate about digital design and SoC verification
 [<img align="left" alt="synosys" width="110px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Synopsys_Logo.svg/2560px-Synopsys_Logo.svg.png" />][webdevplaylist]
 [<img align="left" alt="cadence" width="100px" src="https://logos-download.com/wp-content/uploads/2019/07/Cadence_Logo.png" />][webdevplaylist]
 
+
+[website]: 
+[course]: 
+[twitter]: 
+[youtube]: 
+[instagram]:
+[linkedin]: 
+[webdevplaylist]: 
+[jsplaylist]: 
+[cssplaylist]: 
+[reactplaylist]: 
+
