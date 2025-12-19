@@ -2,7 +2,6 @@
 I'm a Verification Engineer passionate about digital design and SoC verification.
 
 ### Languages and Tools:
-### Languages and Tools:
 
 <img align="left" alt="Verilog" height="26px" src="https://img.shields.io/badge/%20Verilog-%20-green" />
 <img align="left" alt="System Verilog" height="26px" src="https://img.shields.io/badge/%20System Verilog-%20-green" />
