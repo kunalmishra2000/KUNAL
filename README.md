@@ -1,6 +1,6 @@
 # Hi, I'm KUNAL👋
 <p align="center">
-<img src="https://github.com/KUNAL MISHRA/KUNAL MISHRA/blob/main/images/Developer.gif" width="200px">
+<img src="https://github.com/KUNAL MISHRA/kunalmishra2000/blob/main/images/Developer.gif" width="200px">
   </p>
 
 I'm a Verification Engineer passionate about digital design and SoC verification.
