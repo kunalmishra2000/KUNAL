@@ -4,7 +4,7 @@
   <h1 align="center"> <a href="https://prepverse.vercel.app"><img align="center" src="https://readme-typing-svg.herokuapp.com?font=Tourney&weight=900&size=30&pause=1000&color=F74609FF&center=true&vCenter=true&repeat=false&width=500&lines=Hello++%3C%F0%9D%9A%8C%F0%9D%9A%98%F0%9D%9A%8D%F0%9D%9A%8E%F0%9D%9A%9B%F0%9D%9A%9C%2F%3E!%2C+I'kunalmishra2000" alt="Typing SVG" /></a></h1>
 
 # Hi, I'm KUNAL👋
-
+<!--📏LINE-->
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 I'm a Verification Engineer passionate about digital design and SoC verification.
 ![GitHub followers](https://img.shields.io/github/followers/kunalmishra2000?logo=github&style=for-the-badge)
