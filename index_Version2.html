@@ -1,0 +1,42 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Weather Dashboard</title>
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <main class="container">
+    <h1>Weather Dashboard</h1>
+
+    <form id="searchForm" class="search">
+      <input id="cityInput" type="search" placeholder="Enter city (e.g. London)" required />
+      <button type="submit">Search</button>
+    </form>
+
+    <section id="weather" class="weather hidden" aria-live="polite">
+      <div class="card">
+        <div class="left">
+          <h2 id="cityName"></h2>
+          <p id="description" class="muted"></p>
+          <p class="temp"><span id="temp"></span>°C</p>
+          <p class="details">
+            <span>Humidity: <span id="humidity"></span>%</span>
+            <span>Wind: <span id="wind"></span> m/s</span>
+          </p>
+        </div>
+        <div class="right">
+          <img id="icon" alt="weather icon" />
+        </div>
+      </div>
+    </section>
+
+    <div id="error" class="error hidden"></div>
+  </main>
+
+  <!-- Put your API key in config.js (not committed). Example: config.example.js -->
+  <script src="config.js"></script>
+  <script src="script.js"></script>
+</body>
+</html>
