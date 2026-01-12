@@ -11,7 +11,7 @@
 
 ## 👨‍💻 About Me
 
-* Verification Engineer with **4+ years of experience** in **SoC & PCIe IP verification**
+* Verification Engineer with **3+ years of experience** in **PCIe IP verification**
 * Strong background in **SystemVerilog, UVM, PCIe architecture, and protocol-level debugging**
 * Passionate about **real-world verification scenarios, assertions, scoreboards, and coverage-driven verification**
 
@@ -95,4 +95,3 @@
 
 ## 📌 Note
 
-This profile is focused on **clean structure, zero duplication, faster loading**, and **professional VLSI/Verification branding**.
