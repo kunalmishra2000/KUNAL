@@ -9,8 +9,22 @@
 I'm a Verification Engineer passionate about digital design and SoC verification.
 
 
-# 💻 Tech Stack:
+# 💻 Tech Stack/Languages and Tools:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
+<img align="left" alt="Verilog" height="26px" src="https://img.shields.io/badge/%20Verilog-%20-green" />
+<img align="left" alt="System Verilog" height="26px" src="https://img.shields.io/badge/%20System Verilog-%20-green" />
+<img align="left" alt="UVM" height="26px" src="https://img.shields.io/badge/%20UVM-%20-green" />
+<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+<img align="left" alt="Linux" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" />
+<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
+<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+<img align="left" alt="UVM" height="26px" src="https://img.shields.io/badge/%20QuestaSim-%20-orange" />
+<img align="left" alt="UVM" height="26px" src="https://img.shields.io/badge/%20Xcelium-%20-orange" />
+
+<br />
+<br />
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=kunalmishra@2000&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=kunalmishra@2000&theme=dark&hide_border=false)<br/>
@@ -36,19 +50,6 @@ I'm a Verification Engineer passionate about digital design and SoC verification
 
 ### Languages and Tools:
 
-<img align="left" alt="Verilog" height="26px" src="https://img.shields.io/badge/%20Verilog-%20-green" />
-<img align="left" alt="System Verilog" height="26px" src="https://img.shields.io/badge/%20System Verilog-%20-green" />
-<img align="left" alt="UVM" height="26px" src="https://img.shields.io/badge/%20UVM-%20-green" />
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="Linux" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-<img align="left" alt="UVM" height="26px" src="https://img.shields.io/badge/%20QuestaSim-%20-orange" />
-<img align="left" alt="UVM" height="26px" src="https://img.shields.io/badge/%20Xcelium-%20-orange" />
-
-<br />
-<br />
 
 ---
 ![Kumarrishav14's GitHub stats](https://github-readme-stats.vercel.app/api?username=kunalmishra2000&hide_border=true&show_icons=true)
