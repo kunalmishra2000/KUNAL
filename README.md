@@ -1,51 +1,98 @@
-<p align="center">
-<img src="https://github.com/kunalmishra2000/kunalmishra2000/blob/main/images/Developer.gif" width="200px">
-  </p>
-  <h1 align="center"> <a href="https://prepverse.vercel.app"><img align="center" src="https://readme-typing-svg.herokuapp.com?font=Tourney&weight=900&size=30&pause=1000&color=F74609FF&center=true&vCenter=true&repeat=false&width=500&lines=Hello++%3C%F0%9D%9A%8C%F0%9D%9A%98%F0%9D%9A%8D%F0%9D%9A%8E%F0%9D%9A%9B%F0%9D%9A%9C%2F%3E!%2C+I'kunalmishra2000" alt="Typing SVG" /></a></h1>
+<div align="center">
 
-# Hi, I'm KUNAL👋
-<!--📏LINE-->
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-I'm a Verification Engineer passionate about digital design and SoC verification.
-![GitHub followers](https://img.shields.io/github/followers/kunalmishra2000?logo=github&style=for-the-badge)
+<img src="https://github.com/kunalmishra2000/kunalmishra2000/blob/main/images/Developer.gif" width="200" />
 
-### Languages and Tools:
+<h1>Hi, I'm Kunal Mishra 👋</h1>
+<h3>Verification Engineer | PCIe • UVM • SystemVerilog</h3>
 
-<img align="left" alt="Verilog" height="26px" src="https://img.shields.io/badge/%20Verilog-%20-green" />
-<img align="left" alt="System Verilog" height="26px" src="https://img.shields.io/badge/%20System Verilog-%20-green" />
-<img align="left" alt="UVM" height="26px" src="https://img.shields.io/badge/%20UVM-%20-green" />
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="Linux" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-<img align="left" alt="UVM" height="26px" src="https://img.shields.io/badge/%20QuestaSim-%20-orange" />
-<img align="left" alt="UVM" height="26px" src="https://img.shields.io/badge/%20Xcelium-%20-orange" />
-
-<br />
-<br />
+</div>
 
 ---
-![Kumarrishav14's GitHub stats](https://github-readme-stats.vercel.app/api?username=kunalmishra2000&hide_border=true&show_icons=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kunalmishra2000&layout=compact&hide_border=true&count_private=true)
+## 👨‍💻 About Me
 
-[<img align="left" alt="System Verilog" width="130px" src="https://upload.wikimedia.org/wikipedia/en/thumb/e/ef/SystemVerilog_logo.png/240px-SystemVerilog_logo.png" style="padding-right:10px;" />][webdevplaylist]
-[<img align="left" alt="UVM" width="50px" src="https://s3.amazonaws.com/images.verification.academy/uvm.jpg" style="padding-right:10px;" />][webdevplaylist]
-[<img align="left" alt="RISC-V" width="150px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/RISC-V-logo.svg/2560px-RISC-V-logo.svg.png" style="padding-right:10px;" />][webdevplaylist]
-[<img align="left" alt="Python" width="120px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Python_logo_and_wordmark.svg/2560px-Python_logo_and_wordmark.svg.png" />][webdevplaylist] 
-[<img align="left" alt="synosys" width="110px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Synopsys_Logo.svg/2560px-Synopsys_Logo.svg.png" />][webdevplaylist]
-[<img align="left" alt="cadence" width="100px" src="https://logos-download.com/wp-content/uploads/2019/07/Cadence_Logo.png" />][webdevplaylist]
+* Verification Engineer with **4+ years of experience** in **SoC & PCIe IP verification**
+* Strong background in **SystemVerilog, UVM, PCIe architecture, and protocol-level debugging**
+* Passionate about **real-world verification scenarios, assertions, scoreboards, and coverage-driven verification**
 
+---
 
-[website]: 
-[course]: 
-[twitter]: 
-[youtube]: 
-[instagram]:
-[linkedin]: 
-[webdevplaylist]: 
-[jsplaylist]: 
-[cssplaylist]: 
-[reactplaylist]: 
+## 💻 Tech Stack
 
+### Languages
+
+![SystemVerilog](https://img.shields.io/badge/SystemVerilog-green?style=for-the-badge)
+![Verilog](https://img.shields.io/badge/Verilog-green?style=for-the-badge)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge\&logo=c)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge\&logo=c%2B%2B)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge\&logo=python)
+
+### Verification & EDA Tools
+
+![UVM](https://img.shields.io/badge/UVM-green?style=for-the-badge)
+![QuestaSim](https://img.shields.io/badge/QuestaSim-orange?style=for-the-badge)
+![Xcelium](https://img.shields.io/badge/Xcelium-orange?style=for-the-badge)
+![Synopsys](https://img.shields.io/badge/Synopsys-blue?style=for-the-badge)
+![Cadence](https://img.shields.io/badge/Cadence-red?style=for-the-badge)
+
+### Dev Tools
+
+![Linux](https://img.shields.io/badge/Linux-black?style=for-the-badge\&logo=linux)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github)
+![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge\&logo=visualstudiocode)
+
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=kunalmishra2000&show_icons=true&theme=dark&hide_border=true" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=kunalmishra2000&theme=dark&hide_border=true" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kunalmishra2000&layout=compact&theme=dark&hide_border=true" />
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=kunalmishra2000&theme=radical&no-frame=true" />
+</p>
+
+---
+
+## ✍️ Random Dev Quote
+
+<p align="center">
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin)](https://www.linkedin.com/in/kunal-mishra-95357a1a2)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge\&logo=instagram)](https://instagram.com/vlsi_field)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge\&logo=youtube)](https://youtube.com/@vlsi_field)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge\&logo=gmail)](mailto:kunalmishra7771@gmail.com)
+
+---
+
+## 📈 Profile Visitors
+
+<p align="center">
+<img src="https://visitcount.itsvg.in/api?id=kunalmishra2000&color=6" />
+</p>
+
+---
+
+## 📌 Note
+
+This profile is focused on **clean structure, zero duplication, faster loading**, and **professional VLSI/Verification branding**.
